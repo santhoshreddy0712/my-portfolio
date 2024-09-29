@@ -28,7 +28,7 @@ This is a personal portfolio website to showcase projects, skills, and contact i
 
 2. **Clone the Repository**: Clone the forked repository to your local machine.
    ```bash
-   git clone https://github.com/chowdaa/personal-portfolio.git
+   git clone https://github.com/santhoshreddy0712/personal-portfolio.git
 3. Navigate to the Project Directory:
   cd personal-portfolio
 4. Install Dependencies: Install the required dependencies.
