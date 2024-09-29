@@ -20,7 +20,7 @@ This is a personal portfolio website to showcase projects, skills, and contact i
 
 ## Live Deployed Link
 
-[Live Portfolio](https://chowda-portfolio.netlify.app/)
+[Live Portfolio](https://santhosh0712-portfolio1.netlify.app)
 
 ## Steps to Deploy on Netlify
 
